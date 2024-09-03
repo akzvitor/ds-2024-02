@@ -1,15 +1,20 @@
-# Aniversário
+# Festa de Aniversário
+
+## Itens classificados como projeto
+* Tema específico
+* Convidados
+* Local adequado (uma chácara ou clube)
+
+## Itens classificados como requisitos
 * Bolo
-* Doce
+* Decoração
+* Doces
 * Comida
 * Bebida
-* Convidados
-* Balão
+* Balões
 * Touro Mecânico
-* Baralho
+* Baralho / jogos de tabuleiro
 * Sinuca
 * Música
 * Karaoke
 * Ping Pong
-* Presente
-* Cadeira
