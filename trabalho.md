@@ -14,5 +14,5 @@
 
 
 ## Links
-Smart Decisions Game - <https://smartdecisionsgame.com>
-O que é Big Data? - <https://cloud.google.com/learn/what-is-big-data> <https://www.oracle.com/big-data/what-is-big-data/> <https://www.techtarget.com/searchdatamanagement/definition/big-data> 
+* Smart Decisions Game - <https://smartdecisionsgame.com>   
+* O que é Big Data? - <https://cloud.google.com/learn/what-is-big-data>   <https://www.oracle.com/big-data/what-is-big-data/>   <https://www.techtarget.com/searchdatamanagement/definition/big-data> 
