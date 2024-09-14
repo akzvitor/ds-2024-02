@@ -15,3 +15,4 @@
 
 
 ## Na ausência dessas normas, quais seriam os inconvenientes?
+* Não haveria uma referência ou orientação padronizada e de confiança para seguir ao desenvolver processos que tangem à qualidade ou documentação/descrição da arquitetura de software, consequentemente, teriam casos de inconsistência e incoerência para com os stakeholders, tornando o projeto como um todo mais difícil de ser entendido e executado pela equipe.
